@@ -56,7 +56,7 @@ function smallestNItems(items, n) {
 //  
 //   > const nums = [1, 30, 4, 21, 100000];
 //     > nums.sort((a, b) => a - b);
-// [1, 4, 21, 30, 100000]
+// [1, 4, 21, 30, 100000] ddd
 
 // smallestNItems([1, 30, 4, 21, 100000], 4)
 
